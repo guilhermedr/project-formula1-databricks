@@ -3,7 +3,7 @@
 [ERGAST]: <http://ergast.com/mrd/>
 [Azure Databricks Spark Core for Data Engineers]: <https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/>
 
-This is a full ELT (extract, load and transform) projetct and contains Formula 1 data distributed by [ERGAST]. This was a project developed in [Azure Databricks Spark Core for Data Engineers] course.
+This is a fully ELT (extract, load and transform) projetct and contains Formula 1 data distributed by [ERGAST]. This was a project developed in [Azure Databricks Spark Core for Data Engineers] course.
 The source data provides infos about races, drivers, constructors, results, etc. 
 If you love f1 motor sport like me, you can try and find a lot of interesting data in your explore.I'd like to encourage you do take this and improve the code and the analysis.
 
