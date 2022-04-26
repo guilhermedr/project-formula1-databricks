@@ -7,7 +7,7 @@ This is a full ELT (extract, load and transform) projetct and contains Formula 1
 The source data provides infos about races, drivers, constructors, results, etc. 
 If you love f1 motor sport like me, you can try and find a lot of interesting data in your explore.I'd like to encourage you do take this and improve the code and the analysis.
 
-You can download the [formula1-databricks-project.dbc](project-formula1-databricks/formula1-databricks-project.dbc) file, import into your databricks.
+You can download the [formula1-databricks-project.dbc](databricks-file/formula1-databricks-project.dbc) file, import into your databricks.
 Also, you can download the [incremental_data.zip](source/incremental_data.zip) with the data to run the project.
 
 ## Folders
