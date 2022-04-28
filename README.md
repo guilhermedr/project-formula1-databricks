@@ -9,6 +9,10 @@ If you love f1 motorsport like me, you can try and find a lot of interesting dat
 
 You can download the [formula1-databricks-project.dbc](databricks-file/formula1-databricks-project.dbc) file, import into your databricks.
 Also, you can download the [incremental_data.zip](source/incremental_data.zip) with the data to run the project.
+In [notebooks-sqls-files](notebooks-sqls-files/) you can find all jupyter notebooks. Also, in [html-files](html-files/) you can see all the project itself, if you don't want to run nothing. 
+
+
+# About the Project:
 
 ## Folders
 - 1-set-up: it contains a notebook to mount de azure data lake gen2 containers into de project.
